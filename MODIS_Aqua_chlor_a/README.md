@@ -1,4 +1,4 @@
-# MODIS (Moderate Resolution Imaging Sprectroradiometer) in Aqua satellite
+# MODIS (Moderate Resolution Imaging Sprectroradiometer) in Aqua satellite for Chlorophyll a concentration
 
 Aqua MODIS are viewing the entire Earth's surface every 1 to 2 days, acquiring data in 36 spectral bands, or groups of wavelengths.
 
